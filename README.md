@@ -1,2 +1,23 @@
-# Unit-Android-TTS
-유니티 음성인식 동화책(이클립스 소스만 첨부)
+# Type.
+  @ Works
+  
+# Detail.
+  @ Company : RectWorks.(Intern, 3Month)
+	@ Project : Grandmother Sick.
+	@ Preriod : 2015.03.09 ~ 2015.06.03
+	@ Developer : DonYoung Choi.
+	@ Designer : JungYoon Choi.
+	@ Place   : Chun-Cheon
+	
+# Tool.
+	- Unity
+	  @ Language : C#
+
+  - Eclipse
+    @ Language : Java, Android SDK
+
+# Process
+  Unity Develop(UI, System, Design) -> Ecipse(insert Google TTS) -> export
+
+# E-mail
+  Dev_DDoni@naver.com
